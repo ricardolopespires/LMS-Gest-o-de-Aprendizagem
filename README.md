@@ -1,6 +1,6 @@
 # LMS-Gest-o-de-Aprendizagem
 construir uma plataforma LMS de nível industrial com TypeScript, node js, express js, 
-EducaOne é especialmente projetado para atender a todas as necessidades de um Sistema de Gerenciamento de Aprendizagem. Usamos um modelo Django, HTML, Css3,  JavaScript, etc. inclui lista de cursos, detalhamento dos cursos, página de instrutores e também blog. EducaOne é um modelo altamente personalizável que o ajudará no seu próprio sistema de gerenciamento de aprendizado.
+EducaOne é especialmente projetado para atender a todas as necessidades de um Sistema de Gerenciamento de Aprendizagem. Usamos TypeScript, node js, express js, MongoDB, Redis, next 13, rtk query, socket io e muito mais.  etc. inclui lista de cursos, detalhamento dos cursos, página de instrutores e também blog. EducaOne é um modelo altamente personalizável que o ajudará no seu próprio sistema de gerenciamento de aprendizado.
 
 
 <p align = left'> 
