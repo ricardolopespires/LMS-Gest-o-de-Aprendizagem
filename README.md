@@ -12,7 +12,7 @@ EducaOne é especialmente projetado para atender a todas as necessidades de um S
     <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/ricardolopespires/LMS-Gest-o-de-Aprendizagem"/>
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/LMS-Gest-o-de-Aprendizagem"/>
     <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ricardolopespires/LMS-Gest-o-de-Aprendizagem"/>                
-   <img align = right src="Banner_1.png" width = 600/>
+   <img align = right src="banner.png" width = 600/>
 </p>
 
 
